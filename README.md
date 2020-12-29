@@ -1,5 +1,5 @@
 # Num1BD
-# Num1BD
+
 #Without id login Only 08 digit Only Bangladesh id Cloning 
 #All Comand 👇
 #pkg update 
